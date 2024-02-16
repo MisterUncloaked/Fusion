@@ -1,0 +1,7 @@
+[package]
+name = "Fusion"
+version = "0.2.0"
+publish = true
+authors = ["Test"]
+content_root = "src"
+files = ["*"]
